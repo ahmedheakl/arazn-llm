@@ -1,4 +1,4 @@
-# arazn-llm
+# AraZn-LLM
 Code-Switched translations with Large Language models
 
 
