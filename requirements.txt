@@ -1,1 +1,8 @@
-pandas==2.0.3
+pandas
+bitsandbytes 
+accelerate 
+peft 
+trl 
+bert_score
+transformers
+pymeteor

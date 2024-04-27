@@ -30,6 +30,10 @@ def preprocess_text(text: str) -> str:
     text = re.sub(r"\[.*?\]", "", text)
     text = re.sub(r"\s+", " ", text)
     text = text.strip()
+    text = re.sub(r"(\[|\()\s*(LAUGHTER|LAUGH|COUGH|NOISE|HES|HUM|BREATH)\s*(\]|\))"," ",text,flags=re.IGNORECASE)
+    text = re.sub(r'%#?\w+', " ", text)
+    text = re.sub(r"(//|=|#|\(\(|\)\)|@|\$)"," ",text)
+
     return text
 
 
