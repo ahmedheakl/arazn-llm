@@ -2,10 +2,18 @@
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](http://huggingface.co/collections/ahmedheakl/arazn-llm-662ceaf12777656607b9524e)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.18120-b31b1b.svg)](https://arxiv.org/abs/2406.18120)
+[![Demo](https://img.shields.io/badge/Demo-Watch%20Now-ff69b4)](https://github.com/ahmedheakl/arazn-llm/blob/main/demo.mp4)
 
 ## Introduction
 
 In recent times, code-switching between Egyptian Arabic and English has become increasingly prevalent. This repository presents our work on developing advanced machine translation (MT) and automatic speech recognition (ASR) systems specifically designed to handle this linguistic phenomenon.
+
+### 🎥 Demo
+
+Check out our [demo video](https://github.com/ahmedheakl/arazn-llm/blob/main/demo.mp4) to see ARAZN-LLM in action!
+<video width="320" height="240" controls>
+  <source src="https://github.com/ahmedheakl/arazn-llm/blob/main/demo.mp4" type="video/mp4">
+</video>
 
 ### 🎯 Our Goal
 
