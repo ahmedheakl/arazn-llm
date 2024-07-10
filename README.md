@@ -10,10 +10,9 @@ In recent times, code-switching between Egyptian Arabic and English has become i
 
 ### 🎥 Demo
 
-Check out our [demo video](https://github.com/ahmedheakl/arazn-llm/blob/main/demo.mp4) to see ARAZN-LLM in action!
-<video width="320" height="240" controls>
-  <source src="https://github.com/ahmedheakl/arazn-llm/blob/main/demo.mp4" type="video/mp4">
-</video>
+Check out our demo to see ARZEN-LLM in action!
+
+https://github.com/ahmedheakl/arazn-llm/assets/52796111/f8d0e8af-5444-4664-b653-7401578e2069
 
 ### 🎯 Our Goal
 
