@@ -1,6 +1,7 @@
 # ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs 🇪🇬🇬🇧
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](http://huggingface.co/collections/ahmedheakl/arazn-llm-662ceaf12777656607b9524e)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.18120-b31b1b.svg)](https://arxiv.org/abs/2406.18120)
 
 ## Introduction
 
@@ -36,6 +37,9 @@ Code-switching is deeply inherent in spoken languages, making it crucial for ASR
 We're committed to advancing research in this field. Our models and code are available as open-source resources:
 
 - 🤗 **Models**: [Hugging Face Collection](http://huggingface.co/collections/ahmedheakl/arazn-llm-662ceaf12777656607b9524e)
+- 🗣️ **Speech Dataset**: [ARZEN-LLM Speech Dataset](https://huggingface.co/datasets/ahmedheakl/arzen-llm-speech-ds)
+- 🔤 **Translation Dataset**: [ARZEN-LLM Translation Dataset](https://huggingface.co/datasets/ahmedheakl/arzen-llm-dataset)
+- 📄 **Research Paper**: [arXiv:2406.18120](https://arxiv.org/abs/2406.18120)
 
 Feel free to explore, contribute, and build upon our work!
 
