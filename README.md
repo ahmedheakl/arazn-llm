@@ -2,7 +2,8 @@
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](http://huggingface.co/collections/ahmedheakl/arazn-llm-662ceaf12777656607b9524e)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.18120-b31b1b.svg)](https://arxiv.org/abs/2406.18120)
-[![Demo](https://img.shields.io/badge/Demo-Watch%20Now-ff69b4)](https://github.com/ahmedheakl/arazn-llm/blob/main/demo.mp4)
+[![Speech Dataset](https://img.shields.io/badge/🗣️%20Speech%20Dataset-Hugging%20Face-blue)](https://huggingface.co/datasets/ahmedheakl/arzen-llm-speech-ds)
+[![Translation Dataset](https://img.shields.io/badge/🔤%20Translation%20Dataset-Hugging%20Face-blue)](https://huggingface.co/datasets/ahmedheakl/arzen-llm-dataset)
 
 ## Introduction
 
